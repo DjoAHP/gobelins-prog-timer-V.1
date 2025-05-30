@@ -55,7 +55,7 @@ const Dashboard: React.FC = () => {
       <div className="container mx-auto px-4 py-8 max-w-5xl">
         <header className="mb-8">
           <div className="flex justify-between items-center mb-2">
-            <h1 className="text-3xl font-bold text-white">Gobelins Programme /2 (5h)</h1>
+            <h1 className="text-3xl font-bold text-white">Gobelins Prog (5h)</h1>
             <div className="flex items-center gap-2 px-4 py-2 bg-dark-200 rounded-lg backdrop-blur-md">
               <Clock size={18} className="text-primary-400" />
               <span className="text-gray-200 font-mono">{currentTime}</span>
